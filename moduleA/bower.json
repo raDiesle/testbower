@@ -1,0 +1,16 @@
+{
+    "author": {
+        "name": "Me"
+    },
+    "private" : false,
+    "name": "moduleA",
+    "version": "0.0.1",
+	 "ignore": [
+    "bower_components"
+  ],
+    "main": ["./whatever.js"],
+    "devDependencies": {
+        "moduleB" : "*",
+		"moduleC" : "*"
+    }
+}

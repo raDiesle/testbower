@@ -1,0 +1,12 @@
+{
+    "author": {
+        "name": "Me"
+    },
+    "private" : false,
+    "name": "moduleC",
+    "version": "0.0.1",
+    "main": ["./whatever.js"],
+    "devDependencies": {
+       "angularjs" : "*"
+    }
+}
